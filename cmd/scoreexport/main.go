@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/garyburd/redigo/redis"
-	"github.com/yulrizka/fam100"
+	"github.com/softmilk/game"
 )
 
 var (
